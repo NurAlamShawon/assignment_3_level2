@@ -27,3 +27,6 @@ from bookings
 group by vehicle_id 
 having count(*)>2 ;
 
+
+
+ERD DiaGram - https://lucid.app/lucidchart/054cde7b-c6ee-4fd7-a2cb-4d3f73cd52ee/edit?viewport_loc=-2363%2C-854%2C3675%2C1801%2C0_0&invitationId=inv_f106f3f3-86a6-4448-ac78-4417d5ca8acd
